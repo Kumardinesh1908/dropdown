@@ -8,7 +8,6 @@ To get started with this project, follow the instructions below:
 
 1. Clone the repository to your local machine using the following command:
 
-```bash
 git clone https://github.com/your-username/your-dropdown-project.git
 
 ## Features
