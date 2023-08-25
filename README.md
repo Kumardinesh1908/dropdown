@@ -8,7 +8,7 @@ To get started with this project, follow the instructions below:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/your-dropdown-project.git
+git clone https://github.com/Kumardinesh1908/dropdown.git
 
 # Features
 - Hover on the button to show the dropdown menu.
@@ -35,4 +35,4 @@ The custom dropdown component that receives an array of items and allows users t
 Contributions are welcome! If you have suggestions for improvements or would like to add new features, please feel free to open an issue or submit a pull request.
 
 # Live Demo
-Check out the live demo of the ToDo List App: https://kumardinesh1908.github.io/Todo-List-App/
+Check out the live demo of the ToDo List App: (https://dropdown-chi.vercel.app/)
