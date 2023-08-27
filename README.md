@@ -5,10 +5,10 @@ This project showcases a custom dropdown component built using React. The dropdo
 # Getting Started
 
 To get started with this project, follow the instructions below:
-
 1. Clone the repository to your local machine using the following command:
-
+```bash
 git clone https://github.com/Kumardinesh1908/dropdown.git
+```
 
 # Features
 - Hover on the button to show the dropdown menu.
