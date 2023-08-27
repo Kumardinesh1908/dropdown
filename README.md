@@ -35,4 +35,4 @@ The custom dropdown component that receives an array of items and allows users t
 Contributions are welcome! If you have suggestions for improvements or would like to add new features, please feel free to open an issue or submit a pull request.
 
 # Live Demo
-Check out the live demo of the ToDo List App: (https://dropdown-chi.vercel.app/)
+Check out the live demo of the App: (https://dropdown-chi.vercel.app/)
